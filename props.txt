@@ -1,6 +1,6 @@
-demo.src=abc123
+demo.src=11111111
 demo.url=http://google.com
-demo.f=param2
+demo.f=param1
 
-abc.m2=123
-mi=www
+abc.m2=111
+mi=www1111
