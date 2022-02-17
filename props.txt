@@ -3,3 +3,4 @@ demo.url=http://google.com
 demo.f=param
 
 abc.m2=123
+mi=www
